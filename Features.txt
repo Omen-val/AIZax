@@ -1,0 +1,19 @@
+#It can do substraction, addition, minus, division.
+#It can do google searches.
+#It can do wikipedia searches.
+#It can do youtube searches for you.
+#It can greet you.
+#It can open and close any application
+#It can open youtube.
+#It can open instagram profiles.
+#It can download instagram profile picture.
+#It can hide or unhide any folder.
+#It can play video in youtube.
+#It can open camera.
+#It can tell you your location.
+#It can tell you your IP address.
+#It can tell the time.
+#It can send WhatsApp messege
+#It can shutdown, restart and sleep your computer.
+
+#AND It can do many. Explore it yourself.

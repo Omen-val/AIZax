@@ -1,0 +1,29 @@
+import pyttsx3 #pip install pyttsx3
+
+import speech_recognition as sr #pip install SpeechRecognition
+
+import datetime #It's built in module
+
+import os #It's built in module
+
+import cv2 #pip install opencv-python
+
+import webbrowser #It's built in module
+
+from requests import get #It's built in module
+
+import wikipedia #pip install wikipedia
+
+import pywhatkit as pywt #pip install pywhatkit
+
+import sys #It's built in module
+
+import pyjokes #pip install pyjokes
+
+import requests #pip install requests
+
+import instaloader #pip install instaloader
+
+import time #It's built in module
+
+import pyautogui #pip install pyautogui
